@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Mahim R. 3rd page</title>
+    <style>
+     body {background-image: url(https://cdn.wallpapersafari.com/51/94/TQDpYP.jpg);
+      Background-size:cover}
+      a:link, a:visited 
+  {font-style:roboto;
+  font-size:25px;
+  border-radius: 10px;
+  background-color:lightyellow;
+  color: Black;
+  padding: 20px 20px;
+  text-align: center;
+  display: inline-block;}
+  h1{text-align:center;color:white}
+      </style>
+  </head>
+  <body>
+    </table>
+  <div>
+      <div style="background-image: url('https://user-images.githubusercontent.com/760010/26846953-5b5b45de-4ac9-11e7-8bb1-289b1ebc18fd.png');">
+   <h1 style="color: tomato;">The overview of how fake news spreads</h1>
+   </div>
+    <table>
+    <tr>
+      <td><a href="https://mahim-r-pbat-home-page--mahimrahaman.repl.co/">Home</a> </td>
+      <td><a href="https://Mahim-Rahaman-PBAT--mahimrahaman.repl.co">Effect of Fake news</a> </td>
+      <td><a href="https://mahim-r-3rd-page--mahimrahaman.repl.co/">How fake news spreads</a> </td>
+      <td><a href="https://descriptivelegaltabs--mahimrahaman.repl.co/">Using technology to identify the validity of a news</a> </td>
+      
+    </tr>
+  
+   <table>
+      <tr>
+      <td><img 1 src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunpZT0JZUn9yDl_SSJZ7hORijBYssVYwFVNSwbGKf5kcBynn4fw&s" width="450mp"</td>
+      <td><img 2 src= "https://journalistsresource.org/wp-content/uploads/2017/01/Pixabay.jpg" width="450mp" height="260"</td>
+      <td><img 2 src= "https://www.thompsoncoburn.com/images/default-source/blogs/fake_fact_984323792_650x510.jpg?sfvrsn=35b240ea_0" width="450mp"height="260"</td>
+      </tr>
+    </table>
+<div>
+      <div style="background-image: url('https://user-images.githubusercontent.com/760010/26846953-5b5b45de-4ac9-11e7-8bb1-289b1ebc18fd.png');">
+    <h2 style= "color:tomato;text-align:center;"> Evidences</h2>
+    </div>
+    <p> One of the first evidence that shows how the statistics of fake news spread is "A December 2016 survey by the Pew Research Center suggests that 23 percent of U.S. adults have shared fake news, knowingly or unknowingly, with friends and others."</P>
+    <p>Another evidence that shows why people share fake news is "One reason for this persistence is the manner in which people make causal inferences based on available information about a given event or outcome. As a result, false information may continue to influence beliefs and attitudes even after being debunked if it is not replaced by an alternate causal explanation"</P>
+    <p>Finally another evidence that shows how emotions play a huge rule in the spread of fake news is "Anger encourages partisan, motivated evaluation of uncorrected misinformation that results in beliefs consistent with the supported political party, while anxiety at times promotes initial beliefs based less on partisanship and more on the information environment. However, exposure to corrections improves belief accuracy, regardless of emotion or partisanship".</p>
+    <p>Source: www.journalistsresource.org</p>
+<a href= "https://journalistsresource.org/studies/society/internet/fake-news-conspiracy-theories-journalism-research/">
+Click here to go to the souce link
+</a>
+  </body>
+</html>
