@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mahim Rahaman Page 2</title>
+    <style>
+      body {background-image: url(https://cdn.wallpapersafari.com/51/94/TQDpYP.jpg);
+      Background-size:cover}
+      h1{text-align:center;color:white}
+      a:link, a:visited 
+  {font-style:roboto;
+  font-size:25px;
+  border-radius: 10px;
+  background-color:lightyellow;
+  color: Black;
+  padding: 20px 20px;
+  text-align: center;
+  display: inline-block;}
+      </style>
+  </head>
+  <body>
+    <div>
+      <div style="background-image: url('https://user-images.githubusercontent.com/760010/26846953-5b5b45de-4ac9-11e7-8bb1-289b1ebc18fd.png');">
+  <h1 style="color: tomato;">The discovery of a new technology helping us indentify fake news</h1>
+  </div>
+  <table>
+    <tr>
+      <td><a href="https://Mahim-R-PBAT-home-page--mahimrahaman.repl.co">Home</a> </td>
+      <td><a href="https://Mahim-Rahaman-PBAT--mahimrahaman.repl.co">Effect of Fake news</a> </td>
+      <td><a href="https://mahim-r-3rd-page--mahimrahaman.repl.co/">How fake news spreads</a> </td>
+      <td><a href="https://descriptivelegaltabs--mahimrahaman.repl.co/">Using technology to identify the validity of a news</a> </td>
+    </tr>
+  </table>
+  <table>
+      <tr>
+      <td><img 1 src= "https://media.giphy.com/media/9FW5ShdnPyKd6eCwiA/giphy.gif" width="450mp"</td>
+      <td><img 2 src= "https://i2.wp.com/www.innovativewealth.com/wp-content/uploads/2015/10/quote-abraham-lincoln-quote-internet-fake.jpg?ssl=1" width="450mp" height="260"</td>
+      <td><img 2 src= "https://media.giphy.com/media/l3q2E6XD7P7Q0n184/giphy.gif" width="450mp"</td>
+      </tr>
+    </table>
+    <div>
+      <div style="background-image: url('https://user-images.githubusercontent.com/760010/26846953-5b5b45de-4ac9-11e7-8bb1-289b1ebc18fd.png');">
+    <h2 style= "color:tomato;text-align:center;"> Evidences</h2>
+    </div>
+     <p> One of the first evidence that shows how the new system called linguistic system works is: Linguistic is a system so it can use new approaches such as grammar,word choice, punctuation and complexity of a writer to identify fake news.One of the biggest advantages is that using linguistic stystem would help us identify fake news faster than an avarage human would.</P>
+    <p>Another evidence that compares human and technology's ability to identify fake news is: Humans were able to find and identify fake news with a success rate of 70% and on the other hand the linguistics system was able to show a 76% success in find fake news information.</P>
+    <p>Finally another evidence that shows the validity of the linguistic system devolopers statistics is: in a Michigan University, a research study found out that the linguistic system had a 76% success rate by using 500 unique real and fake news. This proved that the statistics linguistic devolopers proposed were true.</p>
+    <p>Source: www.sciencedaily.com</p>
+    <a href= "https://www.sciencedaily.com/releases/2018/08/180821112007.htm">
+Click here to go to the souce link
+</a>
+  </body>
+</html>
