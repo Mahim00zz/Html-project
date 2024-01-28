@@ -5,4 +5,4 @@ The internet is a tool we all use in our daily life and being in school I had to
 very dangerous. Information spread very quick through the web and our human tendancy to quickly jump to conclutions can be very harmful to us. Thus, I am taking this oportunity to educate
 my fellow web surfers to be aware and always look for reliable sources.
 
-This is the official web page: 
+This is the official web page: http://tinyurl.com/4nnmj3nt
