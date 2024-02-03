@@ -6,3 +6,5 @@ very dangerous. Information spread very quick through the web and our human tend
 my fellow web surfers to be aware and always look for reliable sources.
 
 This is the official web page: http://tinyurl.com/4nnmj3nt
+
+Thank you!
